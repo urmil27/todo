@@ -1,3 +1,4 @@
+// eslint-disable-next-line no-unused-vars
 import React from 'react';
 import Background from './compo/Background';
 import Foreground from './compo/Foreground';
